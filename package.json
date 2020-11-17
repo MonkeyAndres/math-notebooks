@@ -1,0 +1,15 @@
+{
+  "name": "math-notebooks",
+  "version": "1.0.0",
+  "description": "Notas de mi aprendizaje autodidacta de matemáticas para 1º de bachillerato.",
+  "main": "index.html",
+  "scripts": {
+    "start": "docsify serve . -o"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "docsify-cli": "^4.4.2"
+  }
+}
