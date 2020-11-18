@@ -1,6 +1,0 @@
-- **Bloque 1. Aritmética y Álgebra**
-- [Números reales y complejos](chapters/ch01-real-complex-numbers.md)
-- [Algebra](chapters/ch02-algebra.md)
-- [Sucesiones](chapters/ch03-sequences.md)
-- **Bloque 2. Geometría**
-- [Geometría Analítica](chapters/ch05-analytical-geometry.md)

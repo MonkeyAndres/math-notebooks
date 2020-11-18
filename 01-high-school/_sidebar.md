@@ -1,0 +1,6 @@
+- **Bloque 1. Aritmética y Álgebra**
+- [Números reales y complejos](high-school-1/ch01-real-complex-numbers.md)
+- [Algebra](high-school-1/ch02-algebra.md)
+- [Sucesiones](high-school-1/ch03-sequences.md)
+- **Bloque 2. Geometría**
+- [Geometría Analítica](high-school-1/ch05-analytical-geometry.md)
