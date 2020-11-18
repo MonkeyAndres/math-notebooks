@@ -4,12 +4,12 @@
   "description": "Notas de mi aprendizaje autodidacta de matemáticas para 1º de bachillerato.",
   "main": "index.html",
   "scripts": {
-    "start": "docsify serve . -o"
+    "start": "ws -p 3000 -r '/math-notebooks/(.*) -> http://localhost:3000/$1'"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "docsify-cli": "^4.4.2"
+    "local-web-server": "^4.2.1"
   }
 }
