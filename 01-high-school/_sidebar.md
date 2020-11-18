@@ -1,4 +1,4 @@
-- [👈🏻 Volver atras](/)
+- [👈🏻 Volver atras](/README.md)
 - **Cuaderno 1º Bachillerato**
 - [Inicio](01-high-school/README.md)
 - **Bloque 1. Aritmética y Álgebra**
