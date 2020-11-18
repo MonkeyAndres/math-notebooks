@@ -4,3 +4,4 @@ Notas de mi aprendizaje autodidacta de matemáticas para 1º de bachillerato. To
 
 [Indice de las notas](SUMMARY.md)
 
+Hecho usando [docsify](https://github.com/docsifyjs/docsify/)
