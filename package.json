@@ -1,14 +1,14 @@
 {
   "name": "math-notebooks",
   "version": "1.0.0",
-  "description": "Notas de mi aprendizaje autodidacta de matemáticas para 1º de bachillerato.",
+  "description": "A collection of all my math notebooks accumulated in my road to learn Machine Learning and become a Machine Learning engineer.",
   "main": "index.html",
   "scripts": {
     "start": "ws -p 3000 -r '/math-notebooks/(.*) -> /$1' --open"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "The Unlicense",
   "devDependencies": {
     "local-web-server": "^4.2.1"
   }
