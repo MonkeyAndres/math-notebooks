@@ -4,7 +4,7 @@
   "description": "Notas de mi aprendizaje autodidacta de matemáticas para 1º de bachillerato.",
   "main": "index.html",
   "scripts": {
-    "start": "ws -p 3000 -r '/math-notebooks/(.*) -> http://localhost:3000/$1'"
+    "start": "ws -p 3000 -r '/math-notebooks/(.*) -> /$1' --open"
   },
   "keywords": [],
   "author": "",
